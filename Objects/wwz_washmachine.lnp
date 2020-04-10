@@ -1,0 +1,5 @@
+"..\wwz\STARTUP.obj",
+"..\wwz\wash_v2.0.obj" 
+TO "..\wwz\wwz_washmachine" 
+
+PRINT(".\wwz_washmachine.map")
